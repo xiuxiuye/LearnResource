@@ -1,2 +1,2 @@
-# LearnResource
+# LearnResource tag 1.0.0
 个人整理的学习资源，目前只包含前端的学习资料，后续根据学习的情况不断更新。
